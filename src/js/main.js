@@ -25,7 +25,7 @@ function guessFromUser(){
     }
 
     if(guess === answer){
-        alert("Du gissade rät!!!")
+        alert("Du gissade rätt!!!")
     }
 }
 
